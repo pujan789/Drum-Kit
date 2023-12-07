@@ -29,9 +29,9 @@ style.css: The stylesheet for styling the drum kit.
 app.js: The JavaScript file containing the game logic.
 Feel free to explore and modify the code to customize the drum sounds or add more features!
 
-<hr>
+<hr style="height:0.2; border:none; color:#333; background-color:#333;">
 
-## If you have any questions or need further assistance, feel free to reach out. Enjoy making music with the drum kit!
+### If you have any questions or need further assistance, feel free to reach out. Enjoy making music with the drum kit!
 
 
 
