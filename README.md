@@ -9,13 +9,13 @@ Each drum element corresponds to a specific drum sound.
 ### Keyboard Controls:
 Press the following keys to play different drum sounds:
 
-W: Tom 1
-A: Tom 2
-S: Tom 3
-D: Tom 4
-J: Snare
-K: Crash
-L: Kick Bass
+ - W: Tom 1
+ - A: Tom 2
+ - S: Tom 3
+ - D: Tom 4
+ - J: Snare
+ - K: Crash
+ - L: Kick Bass
 Enjoy creating beats using your keyboard!
 
 ## Code Overview
